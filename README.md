@@ -4,7 +4,7 @@ This repository contains the code and data used to explore the risk of **Leishma
 
 The analysis incorporates data for environmental and socio-economic drivers, including **climate, land cover, elevation, and socio-economic indices**, to provide an annual/national metric of risk.
 
-The main methedological approach is using boosted regression trees, using the R packages XGBoost. 
+The main methedological approach is using boosted regression trees, using the R package: *XGBoost*. 
 
 ---
 
